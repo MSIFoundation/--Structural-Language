@@ -40,10 +40,10 @@
 
 ## 📜 Documentation
 
-- [White Paper (PDF)](https://yourdomain.org/whitepaper.pdf)  
-- [Concept Glossary](docs/glossary.md)  
-- [Mathematical Notation Guide](docs/notation.md)  
-- [Getting Started with Λ-Graph](docs/structural_graph.md)
+- [White Paper (PDF)]  
+- [Concept Glossary]  
+- [Mathematical Notation Guide]  
+- [Getting Started with Λ-Graph]
 
 ---
 
